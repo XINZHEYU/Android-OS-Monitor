@@ -1,0 +1,113 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml:5:5-76
+	android:name
+		ADDED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml:5:22-73
+uses-permission#android.permission.BATTERY_STATS
+ADDED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml:6:5-72
+	android:name
+		ADDED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml:6:22-69
+uses-permission#android.permission.GET_TASKS
+ADDED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml:7:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml:9:22-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml:12:5-83
+	android:name
+		ADDED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml:12:22-81
+application
+ADDED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml:13:5-39:19
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/yuxinzhe/Desktop/project/Android_Project2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/yuxinzhe/Desktop/project/Android_Project2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.0.1] /Users/yuxinzhe/Desktop/project/Android_Project2/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/yuxinzhe/Desktop/project/Android_Project2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/yuxinzhe/Desktop/project/Android_Project2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/yuxinzhe/Desktop/project/Android_Project2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml:16:9-41
+	android:supportsRtl
+		ADDED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml:17:9-35
+	android:allowBackup
+		ADDED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml:15:9-43
+	android:theme
+		ADDED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml:18:9-40
+activity#com.hd.cu.android_project2.Welcome
+ADDED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml:19:9-28:20
+	android:label
+		ADDED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml:21:13-59
+	android:theme
+		ADDED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml:20:13-36
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml:26:27-74
+activity#com.hd.cu.android_project2.app_list
+ADDED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml:29:9-32:68
+	android:label
+		ADDED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml:31:13-60
+	android:theme
+		ADDED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml:32:13-56
+	android:name
+		ADDED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml:30:13-37
+activity#com.hd.cu.android_project2.wakeLockList
+ADDED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml:33:9-36:68
+	android:label
+		ADDED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml:35:13-66
+	android:theme
+		ADDED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml:36:13-56
+	android:name
+		ADDED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml:34:13-41
+uses-sdk
+INJECTED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/yuxinzhe/Desktop/project/Android_Project2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/yuxinzhe/Desktop/project/Android_Project2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.0.1] /Users/yuxinzhe/Desktop/project/Android_Project2/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/yuxinzhe/Desktop/project/Android_Project2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/yuxinzhe/Desktop/project/Android_Project2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/yuxinzhe/Desktop/project/Android_Project2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yuxinzhe/Desktop/project/Android_Project2/app/src/main/AndroidManifest.xml
